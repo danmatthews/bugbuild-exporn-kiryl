@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>EXPO_RUNTIME_VERSION</key>
+	<string>2.3.3</string>
+	<key>STANDALONE_CONTEXT_TYPE</key>
+	<string>user</string>
+	<key>developmentUrl</key>
+	<string>exp342fd98a88cc42128f88548af2efdbe4://4g-7tg.danmatthews.bugbuild-rnfirebasexpo.exp.direct:80</string>
+</dict>
+</plist>

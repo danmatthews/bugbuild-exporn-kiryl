@@ -1,0 +1,42 @@
+dependencies: \
+  /Volumes/Source/ReactNativeApps/bugbuild-rnfirebasexpo/ios/Pods/lottie-ios/lottie-ios/Classes/RenderSystem/RenderNodes/LOTRenderGroup.m \
+  /Volumes/Source/ReactNativeApps/bugbuild-rnfirebasexpo/ios/Pods/Target\ Support\ Files/lottie-ios/lottie-ios-prefix.pch \
+  /Volumes/Source/ReactNativeApps/bugbuild-rnfirebasexpo/ios/Pods/lottie-ios/lottie-ios/Classes/RenderSystem/RenderNodes/LOTRenderGroup.h \
+  /Volumes/Source/ReactNativeApps/bugbuild-rnfirebasexpo/ios/Pods/lottie-ios/lottie-ios/Classes/RenderSystem/LOTRenderNode.h \
+  /Volumes/Source/ReactNativeApps/bugbuild-rnfirebasexpo/ios/Pods/lottie-ios/lottie-ios/Classes/RenderSystem/LOTAnimatorNode.h \
+  /Volumes/Source/ReactNativeApps/bugbuild-rnfirebasexpo/ios/Pods/lottie-ios/lottie-ios/Classes/MacCompatability/LOTPlatformCompat.h \
+  /Volumes/Source/ReactNativeApps/bugbuild-rnfirebasexpo/ios/Pods/lottie-ios/lottie-ios/Classes/Extensions/LOTBezierPath.h \
+  /Volumes/Source/ReactNativeApps/bugbuild-rnfirebasexpo/ios/Pods/lottie-ios/lottie-ios/Classes/Models/LOTModels.h \
+  /Volumes/Source/ReactNativeApps/bugbuild-rnfirebasexpo/ios/Pods/lottie-ios/lottie-ios/Classes/AnimatableProperties/LOTKeyframe.h \
+  /Volumes/Source/ReactNativeApps/bugbuild-rnfirebasexpo/ios/Pods/lottie-ios/lottie-ios/Classes/AnimatableProperties/LOTBezierData.h \
+  /Volumes/Source/ReactNativeApps/bugbuild-rnfirebasexpo/ios/Pods/lottie-ios/lottie-ios/Classes/PublicHeaders/LOTComposition.h \
+  /Volumes/Source/ReactNativeApps/bugbuild-rnfirebasexpo/ios/Pods/lottie-ios/lottie-ios/Classes/Models/LOTLayer.h \
+  /Volumes/Source/ReactNativeApps/bugbuild-rnfirebasexpo/ios/Pods/lottie-ios/lottie-ios/Classes/Models/LOTMask.h \
+  /Volumes/Source/ReactNativeApps/bugbuild-rnfirebasexpo/ios/Pods/lottie-ios/lottie-ios/Classes/Models/LOTShapeCircle.h \
+  /Volumes/Source/ReactNativeApps/bugbuild-rnfirebasexpo/ios/Pods/lottie-ios/lottie-ios/Classes/Models/LOTShapeFill.h \
+  /Volumes/Source/ReactNativeApps/bugbuild-rnfirebasexpo/ios/Pods/lottie-ios/lottie-ios/Classes/Models/LOTShapeGroup.h \
+  /Volumes/Source/ReactNativeApps/bugbuild-rnfirebasexpo/ios/Pods/lottie-ios/lottie-ios/Classes/Models/LOTShapePath.h \
+  /Volumes/Source/ReactNativeApps/bugbuild-rnfirebasexpo/ios/Pods/lottie-ios/lottie-ios/Classes/Models/LOTShapeRectangle.h \
+  /Volumes/Source/ReactNativeApps/bugbuild-rnfirebasexpo/ios/Pods/lottie-ios/lottie-ios/Classes/Models/LOTShapeStroke.h \
+  /Volumes/Source/ReactNativeApps/bugbuild-rnfirebasexpo/ios/Pods/lottie-ios/lottie-ios/Classes/Models/LOTShapeTransform.h \
+  /Volumes/Source/ReactNativeApps/bugbuild-rnfirebasexpo/ios/Pods/lottie-ios/lottie-ios/Classes/Models/LOTShapeTrimPath.h \
+  /Volumes/Source/ReactNativeApps/bugbuild-rnfirebasexpo/ios/Pods/lottie-ios/lottie-ios/Classes/Models/LOTLayerGroup.h \
+  /Volumes/Source/ReactNativeApps/bugbuild-rnfirebasexpo/ios/Pods/lottie-ios/lottie-ios/Classes/Models/LOTAsset.h \
+  /Volumes/Source/ReactNativeApps/bugbuild-rnfirebasexpo/ios/Pods/lottie-ios/lottie-ios/Classes/Models/LOTShapeGradientFill.h \
+  /Volumes/Source/ReactNativeApps/bugbuild-rnfirebasexpo/ios/Pods/lottie-ios/lottie-ios/Classes/RenderSystem/AnimatorNodes/LOTPathAnimator.h \
+  /Volumes/Source/ReactNativeApps/bugbuild-rnfirebasexpo/ios/Pods/lottie-ios/lottie-ios/Classes/RenderSystem/RenderNodes/LOTFillRenderer.h \
+  /Volumes/Source/ReactNativeApps/bugbuild-rnfirebasexpo/ios/Pods/lottie-ios/lottie-ios/Classes/RenderSystem/RenderNodes/LOTStrokeRenderer.h \
+  /Volumes/Source/ReactNativeApps/bugbuild-rnfirebasexpo/ios/Pods/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTNumberInterpolator.h \
+  /Volumes/Source/ReactNativeApps/bugbuild-rnfirebasexpo/ios/Pods/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTValueInterpolator.h \
+  /Volumes/Source/ReactNativeApps/bugbuild-rnfirebasexpo/ios/Pods/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTTransformInterpolator.h \
+  /Volumes/Source/ReactNativeApps/bugbuild-rnfirebasexpo/ios/Pods/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTPointInterpolator.h \
+  /Volumes/Source/ReactNativeApps/bugbuild-rnfirebasexpo/ios/Pods/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTSizeInterpolator.h \
+  /Volumes/Source/ReactNativeApps/bugbuild-rnfirebasexpo/ios/Pods/lottie-ios/lottie-ios/Classes/RenderSystem/AnimatorNodes/LOTCircleAnimator.h \
+  /Volumes/Source/ReactNativeApps/bugbuild-rnfirebasexpo/ios/Pods/lottie-ios/lottie-ios/Classes/RenderSystem/AnimatorNodes/LOTRoundedRectAnimator.h \
+  /Volumes/Source/ReactNativeApps/bugbuild-rnfirebasexpo/ios/Pods/lottie-ios/lottie-ios/Classes/RenderSystem/ManipulatorNodes/LOTTrimPathNode.h \
+  /Volumes/Source/ReactNativeApps/bugbuild-rnfirebasexpo/ios/Pods/lottie-ios/lottie-ios/Classes/Models/LOTShapeStar.h \
+  /Volumes/Source/ReactNativeApps/bugbuild-rnfirebasexpo/ios/Pods/lottie-ios/lottie-ios/Classes/RenderSystem/AnimatorNodes/LOTPolygonAnimator.h \
+  /Volumes/Source/ReactNativeApps/bugbuild-rnfirebasexpo/ios/Pods/lottie-ios/lottie-ios/Classes/RenderSystem/AnimatorNodes/LOTPolystarAnimator.h \
+  /Volumes/Source/ReactNativeApps/bugbuild-rnfirebasexpo/ios/Pods/lottie-ios/lottie-ios/Classes/RenderSystem/RenderNodes/LOTGradientFillRender.h \
+  /Volumes/Source/ReactNativeApps/bugbuild-rnfirebasexpo/ios/Pods/lottie-ios/lottie-ios/Classes/RenderSystem/RenderNodes/LOTRepeaterRenderer.h \
+  /Volumes/Source/ReactNativeApps/bugbuild-rnfirebasexpo/ios/Pods/lottie-ios/lottie-ios/Classes/Models/LOTShapeRepeater.h
